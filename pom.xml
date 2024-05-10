@@ -8,6 +8,7 @@
 	<packaging>war</packaging>
 	
 	<--Onlinebookstor -->
+		<--Onlinebookstor3 -->
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<finalName>onlinebookstore</finalName>
