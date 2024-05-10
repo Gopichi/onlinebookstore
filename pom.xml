@@ -11,8 +11,12 @@
 		<--Onlinebookstor3 -->
 			<--Onlinebookstor4 -->
 			<--Onlinebookstor5 -->
+<<<<<<< HEAD
 			
 			<--Onlinebookstor7Newdeveloper2-->
+=======
+			<--Onlinebookstor6 -->
+>>>>>>> b36cf0a8e95247245412effce43b5e6f03ffc0f4
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<finalName>onlinebookstore</finalName>
