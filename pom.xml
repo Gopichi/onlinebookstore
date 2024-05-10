@@ -11,6 +11,8 @@
 		<--Onlinebookstor3 -->
 			<--Onlinebookstor4 -->
 			<--Onlinebookstor5 -->
+			
+			<--Onlinebookstor7Newdeveloper2-->
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<finalName>onlinebookstore</finalName>
